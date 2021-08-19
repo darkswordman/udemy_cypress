@@ -1,0 +1,174 @@
+{
+  "todos": [],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$.JUGmdIEktAji4NjSw6YBO16MIZsHW0c1iArb92nD/e33if6gnnxC",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "hatem.hatamleh@gmail.com",
+      "password": "$2a$10$WGWOle/Rlii9hJX8Aud4oe3SUyh11vfUTNgNgZoL/7gG1lzV2w5Ue",
+      "firstname": "Hatem",
+      "lastname": "Hatamleh",
+      "age": 33,
+      "id": 2
+    },
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$LOHNy2rbllaS1Brd8rvrdO5CfuIEun/ANXlt99ivs0dnvMwnAc7QS",
+      "id": 3
+    },
+    {
+      "email": "olivie222r@mail.com",
+      "password": "$2a$10$iYES1adDcJseat4iamNMeO5vHvXFwvktnMmeIdRrY0trHFuDrDN3m",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 4
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$5207HzHnNUpRIvtgcjmE4eXkZf3Cp/mB0XNvhmnjOnLP3dpOalahu",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 5
+    },
+    {
+      "email": "test2753@test.com",
+      "password": "$2a$10$mRzzsaKeN9DqplwQnM1N/upo80.YzGqtQFTK1oCoCcxBTy8jY.nDa",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 6
+    },
+    {
+      "email": "test8756@test.com",
+      "password": "$2a$10$G8AV.lt1FVMlYOvrNasXTeJ.EReFn82.OQU441EUV2RvzoEM1juvu",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 7
+    },
+    {
+      "email": "test9570@test.com",
+      "password": "$2a$10$8MJpUl1YzXFsL4gbxAZgVuraRPnnubFyqoAAHuyXL9DKSJyxYXsYS",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 8
+    },
+    {
+      "email": "test83@test.com",
+      "password": "$2a$10$BA//Y7sU77CTDoG6FP48oeLtiqxdGhTYx/W.2ubbI5Q0YrefmnBJ2",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 9
+    },
+    {
+      "email": "test8926@test.com",
+      "password": "$2a$10$BShw4qbH/VplINqYpHH2ieF4AwRRNLjItle1YDYDkXJApMZYBYF7e",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 10
+    },
+    {
+      "email": "test6533@test.com",
+      "password": "$2a$10$YlgA6CDUOs1BSxdEQDoxZunuvVyE22oyJJHPG.XiA8Ih708HE.SoW",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 11
+    },
+    {
+      "email": "test8948@test.com",
+      "password": "$2a$10$yF3gyilRcEtuWPYA/.SbY.n3vMGdvXf7.ASRDiXp6IVcZxONOEVzq",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 12
+    },
+    {
+      "email": "test6834@test.com",
+      "password": "$2a$10$BHZ/U2jaJpHjoCahwvJCzeCJKurygttx4pgObKb9b2EAOJK4D5Hs6",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 13
+    },
+    {
+      "email": "test6749@test.com",
+      "password": "$2a$10$KRXaHlIgemGFEZkVM/b4eed7To8k3TEu2IRTwOsEiNkbRe9lQHtjG",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 14
+    },
+    {
+      "email": "test9323@test.com",
+      "password": "$2a$10$ifNmkOYLdP9TmubkzBc7UODBLU9jRPjEOqjMgGb.kRzLes4g/d.t2",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 15
+    },
+    {
+      "email": "test5317@test.com",
+      "password": "$2a$10$vihioQj8rqkWR5aQng.oouSsB0gFuQnsvnrdjglWObJtfizCe1WMW",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 16
+    },
+    {
+      "email": "test8607@test.com",
+      "password": "$2a$10$c/KANaj2TQcU9DUwT7rcPO5SIN2xc7etUI6ebwSQqC7R8qKTdw.Du",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 17
+    },
+    {
+      "email": "test6061@test.com",
+      "password": "$2a$10$r/Yx7IDFTYUQqtW4vie8tOuk9Q9sCCUwl/zEAzvj7NzbI7Po8.d.6",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 18
+    },
+    {
+      "email": "test9415@test.com",
+      "password": "$2a$10$1i5Ta/Bld40/hHr.SQIJbuLfeg90Ps2VaweR6wmQokvOd27puse5O",
+      "firstname": "Cris",
+      "lastname": "Dev",
+      "age": 34,
+      "id": 19
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "courseTitle": "Full selenium course",
+      "duration": "18 hours",
+      "videos": 180
+    },
+    {
+      "id": 2,
+      "courseTitle": "Full appium course",
+      "duration": "16 hours",
+      "videos": 140
+    },
+    {
+      "id": 3,
+      "courseTitle": "Full Cypress course",
+      "duration": "8 hours",
+      "videos": 100
+    }
+  ]
+}

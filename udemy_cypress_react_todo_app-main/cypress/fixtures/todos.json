@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mocked! cypress",
+    "isComplete": false
+  },
+  {
+    "name": "Mocked! react",
+    "isComplete": true
+  },
+  {
+    "name": "Mocked! vue",
+    "isComplete": false
+  },
+  {
+    "name": "Mocked! redux",
+    "isComplete": true
+  }
+]

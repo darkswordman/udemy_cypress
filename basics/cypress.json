@@ -1,0 +1,4 @@
+{
+  "defaultCommandTimeout": 3000,
+  "fixturesFolder": "cypress/fixtures"
+}

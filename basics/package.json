@@ -1,0 +1,16 @@
+{
+  "name": "udemy-cypress-react",
+  "version": "0.0.0",
+  "description": "An udemy cypress react course, by Hatem Hatamleh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crisdev",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.0",
+    "cypress": "^8.2.0"
+  }
+}
