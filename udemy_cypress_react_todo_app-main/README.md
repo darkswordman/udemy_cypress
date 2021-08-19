@@ -23,7 +23,7 @@ and here is public API, any one can read, write, update and delete, and we use t
 details of this API:
 
 -   GET all the todos:
-    `GET http://localhost:3000/todos`
+    `GET http://localhost:8080/todos`
 
 and this will return all the todos as below:
 
@@ -53,7 +53,7 @@ and this will return all the todos as below:
 ```
 
 -   GET one todo
-    `GET http://localhost:3000/todos?id=${id}`
+    `GET http://localhost:8080/todos?id=${id}`
 
 And this call will return one to do as below:
 
@@ -68,7 +68,7 @@ And this call will return one to do as below:
 ```
 
 -   POST new todo
-    `POST http://localhost:3000/todos`
+    `POST http://localhost:8080/todos`
 
 and the body is:
 
@@ -92,7 +92,7 @@ And this call will return the newely added todo as below:
 
 -   Update complete status for a todo:
 
-`PUT http://localhost:3000/todos/${id}`
+`PUT http://localhost:8080/todos/${id}`
 
 and the body is:
 
@@ -116,7 +116,7 @@ And this call will return the updated tasks:
 
 -   Delete a specific todo
 
-`DELETE http://localhost:3000/todos/${id}`
+`DELETE http://localhost:8080/todos/${id}`
 
 And this will delete the todo
 
@@ -125,7 +125,7 @@ And this will delete the todo
 And here we can signup and login users
 
 -   Signup a new user:
-    `POST http://localhost:3000/signup`
+    `POST http://localhost:8080/signup`
 
 and the body is
 
@@ -148,7 +148,7 @@ This call will retuen the token as below:
 ```
 
 -   Login in a user
-    `POST http://localhost:3000/login`
+    `POST http://localhost:8080/login`
 
 and the body is
 
